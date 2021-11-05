@@ -1,6 +1,6 @@
 ## Social network analytics for supervised fraud detection in insurance
 
-Implementation of [Oskarsdottir et al (2020)](https://arxiv.org/abs/2009.08313) - Social network analytics for supervised fraud detection in insurance
+Implementation of [Oskarsdottir et al (2020)](https://arxiv.org/abs/2009.08313) - Social network analytics for supervised fraud detection
 
 `cookbook` show how I extended [BrianAronson's BiRank](https://github.com/BrianAronson/birankr), implementing support for prior vectors of known fraudulent claims. I also provide explanation on how should one check for correctness of the birank score calculated, through two methods presented in the original [He et al (2017) BiRank](https://arxiv.org/abs/1708.04396) paper. Providing support for known fraudulent parties could also be done in a similar fashion, but it doesn't make sense for this specific use-case and has not been implemented.
 

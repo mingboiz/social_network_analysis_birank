@@ -1,4 +1,4 @@
-## Social network analytics for supervised fraud detection in insurance
+## Social network analytics for supervised fraud detection
 
 Implementation of [Oskarsdottir et al (2020)](https://arxiv.org/abs/2009.08313) - Social network analytics for supervised fraud detection
 
